@@ -1,4 +1,4 @@
-txt_file = open("note.txt", "r")
+txt_file = open("math.note", "r")
 read_file = txt_file.read()
 print(read_file)
 
